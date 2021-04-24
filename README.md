@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Drectangle%2Bshape%2Boutline&psig=AOvVaw01_Upy7zJSA_xqc101oFXR&ust=1619389805792000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjsjqb3l_ACFQAAAAAdAAAAABAD)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://drive.google.com/file/d/1JICN9glQbWgus9KVkv_Y-gongYBWXgko/view?usp=sharing)
 
 ## Nikhil
 
