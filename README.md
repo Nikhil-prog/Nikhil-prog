@@ -1,9 +1,15 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://drive.google.com/file/d/1JICN9glQbWgus9KVkv_Y-gongYBWXgko/view?usp=sharing)
+## Hey there
 
-## Nikhil
-
-
-
+## My Name is Nikhil
+  - I am pursuing my B.Tech in Computer Science with specialisation in Applied Mathematics
+  - Competitive Programmer
+  
+## Languages/Tools i Know
+  - C/C++
+  - Java
+  - python
+  - MySql
+  - JavaFx
 <!--
 **Nikhil-prog/Nikhil-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
