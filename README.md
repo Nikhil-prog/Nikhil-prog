@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikhil ." target="blank"><img align="center" src="logos/linkedin.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-8640461ab/" target="blank"><img align="center" src="logos/linkedin.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100004363995697" target="blank"><img align="center" src="logos/facebook.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/i_____nikhil" target="blank"><img align="center" src="logos/instagram.svg" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/i_nikhil070" target="blank"><img align="center" src="logos/codechef.svg"  height="30" width="40" /></a>
