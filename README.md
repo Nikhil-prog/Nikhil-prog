@@ -10,6 +10,10 @@
   - python
   - MySql
   - JavaFx
+  - HTML/CSS
+  - Javascript
+  - Node.js
+  - React
 
 
 <h3 align="left">Connect with me:</h3>
